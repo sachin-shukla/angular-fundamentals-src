@@ -8,18 +8,18 @@
       "baggage": ""
     },
     {
-      "id": 2,
       "fullname": "Rose",
-      "checkedIn": false,
-      "checkInDate": null,
-      "baggage": ""
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "hold-only",
+      "checkInDate": 1574596746199
     },
     {
-      "id": 3,
       "fullname": "Todd",
+      "id": 3,
       "checkedIn": true,
-      "checkInDate": 1488412800000,
-      "baggage": ""
+      "baggage": "",
+      "checkInDate": 1488412800000
     },
     {
       "id": 4,
